@@ -1,0 +1,13 @@
+{
+  "commit": {
+    "commit": "e86c3017c65eb281c7372868da18e0eebd45b3d3",
+    "author": "abigailkeller <abigail.g.keller1@gmail.com>",
+    "time": "2025-06-20T23:47:05Z",
+    "files": 1,
+    "merge": false,
+    "message": "updated package version\n"
+  },
+  "repo": "https://github.com/ropensci/eDNAjoint",
+  "pkg": "eDNAjoint",
+  "time": "2026-09-03T12:53:57Z"
+}
